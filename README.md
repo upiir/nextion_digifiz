@@ -1,7 +1,7 @@
 # DIGIFIZ - digital dashboard from a classic VW Golf using the Nextion display
 DIGIFIZ - digital dashboard from a classic VW Golf using the Nextion display
 
-**YouTube video: XXX**
+**YouTube video: https://youtu.be/XtSo1BaJ6Bg**
 
 
 ![THUMB_digifiz_nextion3](https://github.com/user-attachments/assets/fa5bd6bb-35c8-41e9-8712-7b727412ce20)
